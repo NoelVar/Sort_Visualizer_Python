@@ -1,5 +1,6 @@
 ## In Place Sorting Algorithm Visualizer with Python
 <em>Project is based on Tech With Tim - Python Sorting Algorithm Visualizer Tutorial</em>
+<em>The project was developed as practice and more algorithms were/being added</em>
 
 ## Overview
 <p>The project visualizes different sorting algorithms using pygame and python</p>
