@@ -12,7 +12,7 @@
 
 ## Images
 ![Window](./images/Window.png)
-<em align="center">Application GUI</em>
+<em>Application GUI</em>
 
 ![Window](./images/During_ASC_sort.png)
 <em>During Bubble sort (ascending)</em>
